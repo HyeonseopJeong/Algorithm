@@ -14,7 +14,7 @@
 
 ### partition
 
-- 가장 왼쪽 index를 pivot으로 잡는다. (clever pivot selecting을 하려면 l, mid, r 중 중앙값을 l과 swap하면 된다.)
+- 가장 왼쪽 index를 pivot으로 잡는다. (**clever pivot selecting**을 하려면 l, mid, r 중 중앙값을 l과 swap하면 된다.)
 
 - pivot을 제외하고 가장 왼쪽 index를 i, 가장 오른쪽 index를 j로 잡는다.
 
